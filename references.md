@@ -1,6 +1,3 @@
-I think that this will conflict
+# References
 
-Lets see if this conflicts
-
-I hope that it does
-lol.
+* octocat 1 😈
